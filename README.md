@@ -4,7 +4,7 @@
 
 ## 系统环境
 Centos 7.x [CentOS（Community Enterprise Operating System）是Linux发行版之一]
-Ocserv版本：0.10.8(截止2018-03-16日，目前最新版为0.11.11，使用0.10.8版本的原因较稳定，其它版本也可以尝试安装)
+Ocserv版本：0.10.8(使用0.10.8版本的原因较稳定，其它版本也可以尝试安装)
 ### 安装说明
 支持自动判断防火墙，请确保 Firewalld 或者 iptables 其中一个是 active 状态；
 默认采用用户名密码验证，本安装脚本编译的 ocserv 也支持 pam 验证，只需要修改配置文件即可；
