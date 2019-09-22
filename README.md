@@ -37,7 +37,7 @@ sh ocserv-install-script-for-centos7.sh
 
 #### 添加用户
 
-ocpasswd -c /usr/local/etc/ocserv/ocpasswd username(username是要添加的用户名)
+ocpasswd -c /usr/local/etc/ocserv/ocpasswd username  (username是要添加的用户名)
 
 #### 删除用户
 
